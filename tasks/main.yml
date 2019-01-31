@@ -1,0 +1,7 @@
+ 
+---
+- name: Install virt-manager
+  apt:
+    name: virt-manager
+    state: present
+    
