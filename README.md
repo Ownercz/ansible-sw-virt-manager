@@ -1,0 +1,1 @@
+# ansible-sw-virt-manager
